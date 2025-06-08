@@ -1,11 +1,6 @@
 # Locked and Loaded C 
-**Bang bang, C is locked and loaded.**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/13ecc563-7337-4bfe-83d6-160d8c0b80c1" alt="image" width="300px"/>
-</p>
-
-<!-- ## Scope
+## Scope
 Hola chicos, la idea de este repo es proporcionarles una guía clara y actualizada para tener un entorno listo para aprender C/C++. 
 
 ## Motivation
@@ -31,4 +26,4 @@ Todas las instrucciones que escribimos, sin importar el lenguaje de programació
 
 Un **intérprete** transforma línea por línea nuestro programa a código binario durante su ejecución. Esa es la razón por la que un lenguaje interpretado suele ser más lento, ya que a medida que se ejecuta cada línea esta recien es transformada en código binario. En contraste, un **compilador** transforma todo nuestro programa en un archivo ejecutable en lenguaje máquina antes de que el programa se ejecute. Por ello, un lenguaje compilado suele ser considerablemente más rápido, aunque cada vez que introducimos algún cambio en nuestro programa, este debe ser nuevamente compilado. 
 
-Con todo ello en mente, estamos listos para crear un entorno listo para aprender C y eventualmente C++. -->
+Con todo ello en mente, estamos listos para crear un entorno listo para aprender C y eventualmente C++.
