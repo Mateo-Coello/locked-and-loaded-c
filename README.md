@@ -1,3 +1,8 @@
+---
+title: Locked and Loaded C 
+nav_order: 1
+---
+
 # Locked and Loaded C 
 **Bang bang, C is locked and loaded.**
 

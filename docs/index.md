@@ -1,7 +1,9 @@
 ---
-title: Locked and Loaded C 
-layout: default
+title: Introducción
+nav_order: 1
 ---
+
+# Locked and Loaded C
 
 ## Objetivo
 Hola chicos, la idea de este repo es proporcionarles una guía clara y actualizada para tener un entorno listo para aprender C/C++. 
@@ -25,7 +27,7 @@ En términos sencillos, una declaración involucra acciones como definir una var
 Ahora bien, **¿qué es un compilador?**
 Seguramente han escuchado que Python es un lenguaje interpretado; es decir, utiliza un intérprete para convertir las instrucciones que escribimos a lenguaje máquina. Espero que hayan tenido la oportunidad de instalar el intérprete de Python, y no simplemente hayan utilizado un entorno como Google Colab o Jupyter Notebooks. De lo contrario, esta parte podría resultar un poco más compleja de entender. 
 
-Todas las instrucciones que escribimos, sin importar el lenguaje de programación, son transformadas en un lenguaje entendible para el procesador de nuestra computadora (CPU). Esta transformación convierte nuestras instrucciones en código binario (`0` y `1`), el cual el procesador puede ejecutar sin problema alguno. Este proceso de transformación se logra mediante un **intérprete** en el caso de Python, y mediante un **compilador** en el caso de C o C++. 
+Todas las instrucciones que escribimos, sin importar el lenguaje de programación, son transformadas en un lenguaje entendible para el procesador de nuestra computadora (CPU). Esta transformación convierte nuestras instrucciones en código binario (`0` y `1`), lo cual el procesador puede ejecutar sin problema alguno. Este proceso de transformación se logra mediante un **intérprete** en el caso de Python, y mediante un **compilador** en el caso de C o C++. 
 
 Un **intérprete** transforma línea por línea nuestro programa a código binario durante su ejecución. Esa es la razón por la que un lenguaje interpretado suele ser más lento, ya que a medida que se ejecuta cada línea esta recien es transformada en código binario. En contraste, un **compilador** transforma todo nuestro programa en un archivo ejecutable en lenguaje máquina antes de que el programa se ejecute. Por ello, un lenguaje compilado suele ser considerablemente más rápido, aunque cada vez que introducimos algún cambio en nuestro programa, este debe ser nuevamente compilado. 
 
