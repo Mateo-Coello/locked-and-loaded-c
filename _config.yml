@@ -1,5 +1,3 @@
 title: "Locked and Loaded C"
-plugins:
-  - jekyll-remote-theme
-remote_theme: just-the-docs/just-the-docs 
+theme: just-the-docs 
 toc_enabled: true
