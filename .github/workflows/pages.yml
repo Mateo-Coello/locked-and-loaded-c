@@ -44,7 +44,7 @@ jobs:
                --source docs \
                --destination _site \
                --config _config.yml \
-               --baseurl "${{ steps.pages.outputs.base_path }}/_site"
+               --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
           
