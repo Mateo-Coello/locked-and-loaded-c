@@ -19,7 +19,7 @@ Los lenguajes de alto nivel poseen una abstracción muy elevada en cuanto a su s
 Como un adelanto de los conceptos que engloban a un lenguaje de bajo nivel, se encuentra el tipado estático, es decir, definir explícitamente el tipo de una variable. Por ejemplo, en Python una variable `x` que contiene un número entero como el `5` se puede escribir simplemente como `x = 5`. En un lenguaje como C, se debe especificar que nuestra variable es de tipo entero al anteponer la palabra clave `int` antes del nombre de la variable: `int x = 5;`. Si son observadores, se habrán dado cuenta de que aparece un punto y coma al final de la declaración (statement en inglés) y es porque el compilador lo requiere para determinar el fin de nuestra instrucción. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e17e13c5-9e04-41e5-b15d-c9a8295e984e" alt="image" width="400px"/>
+  <img src="./assets/images/espera-que-acabas-de-decir.jpg" alt="image" width="400px"/>
 </p>
 
 En términos sencillos, una declaración involucra acciones como definir una variable, definir una función o controlar el flujo del programa (por ejemplo, con if/else). A diferencia de C, en Python no es necesario incluir un `;` al final de una declaración. Sin embargo, la tabulación (indentación) y el salto de linea entre declaraciones es muy importante, ya que forma parte de la sintaxis de Python.
