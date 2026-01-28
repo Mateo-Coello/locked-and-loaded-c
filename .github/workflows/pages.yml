@@ -43,7 +43,8 @@ jobs:
         run: bundle exec jekyll build \
                --source docs \
                --destination _site \
-               --baseurl "${{ steps.pages.outputs.base_path }}"
+               --config _config.yml
+               --baseurl "${{ steps.pages.outputs.base_path }}/_site"
         env:
           JEKYLL_ENV: production
           

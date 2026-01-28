@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4.1"
-gem "just-the-docs", "0.12.0"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
+gem "just-the-docs"
